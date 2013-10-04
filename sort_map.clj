@@ -8,5 +8,3 @@
  
 (println (asort lst odr))
 ; sort_map.clj "{:a 2 :b 3}" "[:b :a]"
- 
- 
